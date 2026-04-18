@@ -1,0 +1,24 @@
+{
+  "stake": 10,
+  "accept_key": "a",
+  "reject_key": "r",
+  "quit_key": "escape",
+  "text_height": 0.06,
+  "proposer_dur": 1.2,
+  "offer_dur": 2.5,
+  "decision_max": 4.0,
+  "feedback_dur": 1.0,
+  "iti_min": 2.0,
+  "iti_max": 5.0,
+  "fullscreen": true,
+  "screen_color": [
+    0,
+    0,
+    0
+  ],
+  "text_color": [
+    1,
+    1,
+    1
+  ]
+}

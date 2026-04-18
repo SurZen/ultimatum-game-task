@@ -1,0 +1,11 @@
+sub,ses,deck_version,deck_file,timestamp,trial,stake,partner_name,offer_you,offer_them,fairness,deck_avatar,response,accepted,rt,payoff,proposer_onset,offer_onset,decision_onset,feedback_onset
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,1,10,Alex,3,7,unfair,,a,1,1.2128,3,,0.0,2.518,3.74
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,2,10,Alex,2,8,unfair,,r,0,0.4882,0,,7.745,10.2562,10.7533
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,3,10,Alex,5,5,fair,AlexP.png,r,0,0.9979,0,15.962,17.2147,19.7268,20.7334
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,4,10,Alex,1,9,unfair,,r,0,0.3528,0,,23.8694,26.3874,26.7479
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,5,10,Alex,3,7,unfair,,a,1,0.3538,3,,32.4559,34.9753,35.3375
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,6,10,Alex,2,8,unfair,,r,0,0.5165,0,,38.566,41.0742,41.5989
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,7,10,Alex,4,6,fair,,a,1,0.3735,4,,44.6304,47.1498,47.5341
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,8,10,Alex,1,9,unfair,,r,0,0.3833,0,,52.8704,55.3846,55.7779
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,9,10,Alex,3,7,unfair,,a,1,0.4192,3,,61.496,64.0047,64.4327
+GF,01,1,UGT_KT_v1_Alex.csv,20260125-204316,10,10,Alex,2,8,unfair,,r,0,0.447,0,,70.4575,72.9694,73.4256

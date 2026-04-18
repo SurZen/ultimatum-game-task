@@ -1,0 +1,2 @@
+sub,ses,deck_version,deck_file,timestamp,trial,stake,partner_name,offer_you,offer_them,fairness,deck_avatar,response,accepted,rt,payoff,proposer_onset,offer_onset,decision_onset,feedback_onset
+Test23,01,1,UGT_KT_v1_Alex.csv,20260125-203027,1,10,Alex,3,7,unfair,,a,1,2.2188,3,,0.0,1.809,4.0376

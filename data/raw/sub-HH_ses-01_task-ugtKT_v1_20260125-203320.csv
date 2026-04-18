@@ -1,0 +1,4 @@
+sub,ses,deck_version,deck_file,timestamp,trial,stake,partner_name,offer_you,offer_them,fairness,deck_avatar,response,accepted,rt,payoff,proposer_onset,offer_onset,decision_onset,feedback_onset
+HH,01,1,UGT_KT_v1_Alex.csv,20260125-203320,1,10,Alex,3,7,unfair,,timeout,0,,0,,0.0,1.8129,5.8223
+HH,01,1,UGT_KT_v1_Alex.csv,20260125-203320,2,10,Alex,2,8,unfair,,r,0,0.854,0,,9.2111,11.021,11.8832
+HH,01,1,UGT_KT_v1_Alex.csv,20260125-203320,3,10,Alex,5,5,fair,AlexP.png,r,0,2.4616,0,16.1521,17.4045,19.2184,21.6883
